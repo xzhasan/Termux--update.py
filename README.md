@@ -18,9 +18,13 @@ A powerful Python script for automatically setting up Termux with essential pack
 📥 Installation
 
 pkg update && pkg upgrade -y
+
 pkg install git -y
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+
+git clone https://github.com/xzhasan/Termux--update.py.git
+
 cd update.py
+
 python update.py
 
 ---
@@ -54,4 +58,4 @@ The author is not responsible for any misuse.
 
 👨‍💻 Author
 
-Made with ❤️ by YOUR_NAME
+Made with ❤️ by Xz HASAN
